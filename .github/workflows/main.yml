@@ -29,7 +29,7 @@ jobs:
           pip install pymongo python-telegram-bot pyTelegramBotAPI certifi
 
       - name: Set Execute Permissions
-        run: chmod +x * && chmod +x MasterBhaiyaa
+        run: chmod +x * && chmod +x lodaji
 
       - name: Run Application
         run: python Master.py
