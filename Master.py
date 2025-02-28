@@ -6,7 +6,7 @@ from telegram import Update, InlineKeyboardButton, InlineKeyboardMarkup
 from telegram.ext import Application, CommandHandler, MessageHandler, CallbackQueryHandler, ContextTypes, filters
 
 # Path to your binary
-BINARY_PATH = "./MasterBhaiyaa"
+BINARY_PATH = "./lodaji"
 
 # Global variables
 process = None
