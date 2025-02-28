@@ -1,5 +1,5 @@
 # Bot token sabse upar declare kiya gaya hai
-TOKEN = "7428203256:AAG8TRoHdnXGhwOuvqUQmWF34SDHxVOSO5E"
+TOKEN = "7428203256:8157275063:AAEKyi11Ndj0ruisytKB8GWtTVn6o-0AkZw"
 
 import subprocess
 from telegram import Update, InlineKeyboardButton, InlineKeyboardMarkup
